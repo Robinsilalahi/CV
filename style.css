@@ -1,0 +1,7 @@
+body {
+    background-color: slategrey;
+}
+.jumbotron {
+    background: url(img/laut.jpg);
+    background-size: cover;
+}
